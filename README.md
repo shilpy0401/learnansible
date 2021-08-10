@@ -1,7 +1,7 @@
-Coomand to run Playbook -
+. Command to run Playbook -
 
-ansible-playbook --inventory hosts playbook.yml  -u devops --ask-pass
+  ansible-playbook --inventory hosts playbook.yml  -u devops --ask-pass
 
 
 
-Hosts is a inventory file which has private IPs of machine which has to be provisioned.
+. Hosts is a inventory file which has private IPs of machine which has to be provisioned.
